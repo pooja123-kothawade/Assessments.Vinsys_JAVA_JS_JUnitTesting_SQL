@@ -1,0 +1,6 @@
+SELECT * FROM users;
+SELECT user_id, learn_java FROM progress WHERE learn_java = 1;
+SELECT users.user_id, users.country, progress.learn_cpp, progress.learn_sql
+FROM users
+JOIN progress ON users.user_id = progress.user_id;
+SELECT COUNT(*) FROM progress WHERE learn_sql = 1;
