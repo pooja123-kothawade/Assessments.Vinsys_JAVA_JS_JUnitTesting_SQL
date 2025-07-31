@@ -1,0 +1,1 @@
+let inputArray = ["hello", "world", "java", "hello", "java"]; let frequency = {};  inputArray.forEach(item => {   frequency[item] = (frequency[item] || 0) + 1; });  console.log(frequency);

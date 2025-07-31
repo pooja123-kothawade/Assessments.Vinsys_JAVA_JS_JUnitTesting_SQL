@@ -1,0 +1,1 @@
+let arr = [1, 2, 5, 10, 20]; let sum = arr.reduce((acc, curr) => acc + curr, 0);  console.log(sum);
