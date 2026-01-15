@@ -9,14 +9,35 @@ These projects demonstrate practical applications of **Core Java, Advanced Java,
 ```tree
 javaminiprojects-main/
 │
-├── Project1/        # Example: Student Management System
-├── Project2/        # Example: Library Management
-├── Project3/        # Example: Banking Application
-├── Project4/        # Example: Inventory Management
+├── Project1/        
+├── Project2/       
+├── Project3/        
+├── Project4/       
 └── README.md
 
 *(Adjust project names based on actual folders in your repo.)*
 ```
+## 📂 Included Projects
+
+### 🧮 Calculator
+- Performs **basic math operations** (addition, subtraction, multiplication, division).
+- Demonstrates use of **Java fundamentals** and clean modular design.
+- Simple console-based interface for quick calculations.
+
+---
+
+### 🚗 Car Loan Payment Calculator
+- Predicts **monthly EMI** based on loan amount, interest rate, and tenure.
+- Implements **mathematical formulas** for financial calculations.
+- Useful for understanding **real-world applications** of Java in finance.
+
+---
+
+### ✨ MathMagic
+- A fun **mathematical trick app** built using Java.
+- Showcases creative problem-solving and algorithmic thinking.
+- Engages users with interactive math puzzles and tricks.
+
 ---
 
 ## 🚀 Features
