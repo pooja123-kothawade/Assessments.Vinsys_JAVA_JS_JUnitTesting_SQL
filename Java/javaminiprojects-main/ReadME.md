@@ -39,11 +39,11 @@ javaminiprojects-main/
 ## 📖 How to Run
 1. Clone the repository:
 ```
-   git clone https://github.com/pooja123-kothawade/Assessments.Vinsys_JAVA_JS_JUnitTesting_SQL.git
+git clone https://github.com/pooja123-kothawade/Assessments.Vinsys_JAVA_JS_JUnitTesting_SQL.git
 ```
 2.Navigate to the project folder:
 ```
- cd Java/javaminiprojects-main/Project1
+cd Java/javaminiprojects-main/Project1
 ```
 3.Compile and run:
 ```
