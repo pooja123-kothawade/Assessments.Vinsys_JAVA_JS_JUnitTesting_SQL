@@ -1,19 +1,22 @@
 # Java Mini Projects
 
-A collection of **Java-based mini projects** developed as part of training and assessments at **Vinsys & Generation India**.  
-These projects demonstrate practical applications of **Core Java, Advanced Java, SQL, JUnit Testing, and JavaScript** concepts.
-
+A collection of **Java-based mini projects** developed as part of training and assessments at **Vinsys & Generation India**. These projects demonstrate practical applications of **Core Java, SQL, JUnit Testing, and JavaScript** concepts.
 ---
 
 ## 📂 Project Structure
+
 ```tree
+
 javaminiprojects-main/
 │
-├── Project1/        
-├── Project2/       
-├── Project3/        
-├── Project4/       
-└── README.md
+├── Calculator.java             # Performs basic math operations
+├── CarLoan.java                # Car Loan Payment Calculator – monthly EMI prediction
+├── Magic.java                  # MathMagic – mathematical trick app using Java
+├── ReadME.md                   # Project documentation
+└── (images/)                   # Optional folder for screenshots
+    ├── calculator.png
+    ├── car-loan.png
+    └── mathmagic.png
 
 *(Adjust project names based on actual folders in your repo.)*
 ```
@@ -71,7 +74,7 @@ cd Java/javaminiprojects-main/Project1
 javac Main.java
 java Main
 ```
-## ✅ Learning Outcomes
+## ✅ Learning Outcomes 
 - Strengthened understanding of **Java fundamentals**
 - Hands-on experience with **SQL integration**
 - Improved debugging and testing skills with **JUnit**
