@@ -26,6 +26,7 @@ javaminiprojects-main/
 - Performs **basic math operations** (addition, subtraction, multiplication, division).
 - Demonstrates use of **Java fundamentals** and clean modular design.
 - Simple console-based interface for quick calculations.
+![Calculator Screenshot](images/Calculator.png)
 
 ---
 
@@ -33,14 +34,14 @@ javaminiprojects-main/
 - Predicts **monthly EMI** based on loan amount, interest rate, and tenure.
 - Implements **mathematical formulas** for financial calculations.
 - Useful for understanding **real-world applications** of Java in finance.
-
+![Car Loan Screenshot](images/Car-Loan.png)
 ---
 
 ### ✨ MathMagic
 - A fun **mathematical trick app** built using Java.
 - Showcases creative problem-solving and algorithmic thinking.
 - Engages users with interactive math puzzles and tricks.
-
+![MathMagic Screenshot](images/Magic.png)
 ---
 
 ## 🚀 Features
