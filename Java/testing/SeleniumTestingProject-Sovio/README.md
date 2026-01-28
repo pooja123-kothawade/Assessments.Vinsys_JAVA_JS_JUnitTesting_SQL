@@ -89,5 +89,6 @@ Include:
 
 
 # 👩‍💻 Author
-Prepared for Sovio QA assignment  
+POOJA KOTHAWADE
+Prepared for Sovio QA assignment for 'Ayanworks' QA role.
 Technologies: Selenium WebDriver, TestNG, Maven, WebDriverManager
